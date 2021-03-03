@@ -1,3 +1,9 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 # Available commands in Financial Reporting Server
 Member documentation (be sure to use it under #bot-commands, unless necessary to use in other channels)
 
@@ -38,3 +44,4 @@ Member documentation (be sure to use it under #bot-commands, unless necessary to
 | ?poll        | Start a poll for people to vote on.                     | ?poll “[message]” “[choice 1]” “[choice 2]” |
 | ?pug         | Get some cute pug pictures.                             | ?pug                                        |
 | ?space       | Get information about the International Space Station.  | ?space                                      |
+{: .tablelines}
